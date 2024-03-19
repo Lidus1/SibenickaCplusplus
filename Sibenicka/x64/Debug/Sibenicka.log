@@ -1,0 +1,17 @@
+﻿  Hra.cpp
+C:\Users\veronika\source\repos\Sibenicka\Sibenicka\HangmanF.h(173,19): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru Hra.cpp)
+  
+C:\Users\veronika\source\repos\Sibenicka\Sibenicka\HangmanF.h(174,19): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru Hra.cpp)
+  
+C:\Users\veronika\source\repos\Sibenicka\Sibenicka\HangmanF.h(175,19): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru Hra.cpp)
+  
+C:\Users\veronika\source\repos\Sibenicka\Sibenicka\HangmanF.h(187,29): warning C4244: inicializování: float se převádí na int; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru Hra.cpp)
+  
+C:\Users\veronika\source\repos\Sibenicka\Sibenicka\HangmanF.h(441,66): warning C4244: argument: int se převádí na float; může dojít ke ztrátě dat.
+  (kompilování zdrojového souboru Hra.cpp)
+  
+  Sibenicka.vcxproj -> C:\Users\veronika\source\repos\Sibenicka\x64\Debug\Sibenicka.exe
